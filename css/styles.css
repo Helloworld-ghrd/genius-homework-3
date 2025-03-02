@@ -818,6 +818,7 @@ header {
     padding: 20px 0;
     background-color: rgba(1, 31, 74, 0.4);
     z-index: 1;
+    transition: opacity 0.2s, visibility 0.2s;
 }
 
 .backdrop.is-hidden {
