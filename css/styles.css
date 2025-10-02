@@ -601,6 +601,7 @@ ul {
   display: flex;
   align-self: flex-end;
   max-width: 152px;
+  margin-bottom: 0;
   color: var(--color-brand-white);
   font-size: 22px;
   font-weight: 400;
